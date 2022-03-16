@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/examples/FungusExamples/FungusTown/FungusTown.unity
     guid: 9cb2c3bd6962d487dba382e8e35f188c
   - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 4612c412782054743857a7dded959ad2
+  - enabled: 1
     path: Assets/Scenes/OURGAME.unity
     guid: dd00a83d64c3e604e9fdf441c052545b
   - enabled: 1
     path: Assets/Scenes/SETTINGS.unity
     guid: 71a7444b36be2eb4c974af7ec3195408
-  - enabled: 1
-    path: Assets/Scenes/MENU.unity
-    guid: 4612c412782054743857a7dded959ad2
   m_configObjects: {}
